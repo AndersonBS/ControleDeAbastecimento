@@ -1,0 +1,27 @@
+body {
+    background: url(../IMG/bg.jpg);
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5 {
+    color: black;
+    text-shadow: 3px 3px 4px #AAA;
+}
+
+.myTable {
+    background: white;
+    border-top: 2px solid #269abc;
+    border-bottom: 2px solid #269abc;
+    border-left: 2px solid #269abc;
+    border-right: 2px solid #269abc;
+}
+
+.myTh {
+    border-bottom: 2px solid #269abc;
+}
+
+.myRow {
+    border-bottom: 2px solid #269abc;
+}
